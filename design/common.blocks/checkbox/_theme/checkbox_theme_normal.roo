@@ -56,7 +56,7 @@
 
             &::before
             {
-                top: -4px;
+                top: -6px;
                 left: 1px;
 
                 width: 15px;
@@ -80,7 +80,7 @@
 
             &::before
             {
-                top: -5px;
+                top: -6px;
                 left: 1px;
 
                 width: 18px;
