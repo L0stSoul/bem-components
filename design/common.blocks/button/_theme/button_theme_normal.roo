@@ -18,6 +18,11 @@
     text-align: center;
     white-space: nowrap;
 
+    &:hover
+    {
+        cursor: pointer;
+    }
+
     &::-moz-focus-inner
     {
         padding: 0;
